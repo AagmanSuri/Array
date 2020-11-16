@@ -2,6 +2,7 @@
 #include <stdlib.h>
 //this is the Multi-dimension
 //this is the check
+//this isthe second check 
 int main()
 {     int i,j;
       int *b[3];

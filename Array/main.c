@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //this is the Multi-dimension
-
+//this is the check
 int main()
 {     int i,j;
       int *b[3];
